@@ -11,8 +11,3 @@ This repository contains the IEEE-formatted LaTeX source code, figures, and docu
 ## 📁 Repository Structure
 * Simulation files (.aedtaz file)
 * Research Paper
-
-## 🛠️ Compilation Instructions
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
