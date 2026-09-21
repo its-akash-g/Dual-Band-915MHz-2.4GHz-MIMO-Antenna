@@ -1,3 +1,23 @@
+# ==========================================
+# Ansys Electronics Desktop (AEDT) / HFSS
+# ==========================================
+*.aedtresults/
+*.aedt.auto
+*.aedt.lock
+*.aedtz.lock
+*.aedt.*.lock
+*.bak
+*.bak*
+*.tmp
+*.log
+*.dmp
+*_temp/
+*.amat
+*.smat
+*~
+
+!*.aedtaz
+!*.tz
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
